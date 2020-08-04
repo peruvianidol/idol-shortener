@@ -2,6 +2,7 @@
   "name": "idol-shortener",
   "version": "1.0.0",
   "description": "URL shortener for idol.pe",
+  "baseUrl": "https://idol.pe",
   "main": "index.js",
   "scripts": {
     "shorten": "netlify-shortener"
