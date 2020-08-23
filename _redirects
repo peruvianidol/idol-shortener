@@ -1,14 +1,14 @@
 /edit         https://github.com/peruvianidol/idol-shortener/edit/master/_redirects
-/twitter      https://twitter.com/peruvianidol
-/letterboxd   https://letterboxed.com/peruvianidol
-/codepen      https://codepen.io/peruvianidol
-/github       https://github.com/peruvianidol
+/tw           https://twitter.com/peruvianidol
+/lb           https://letterboxed.com/peruvianidol
+/cp           https://codepen.io/peruvianidol
+/gh           https://github.com/peruvianidol
 /discord      https://discord.gg/SqpPNVv
-
-/pds-repo     https://github.com/Provi-Engineering/provi-design-system
-/pds-site     https://provi-design-system.netlify.app/
-/pds-deck     http://mikeaparicio.com/slides/provi-design-system-july-2020.pdf
-/team-olivia  https://www.extra-life.org/index.cfm?fuseaction=donordrive.participant&participantID=404053
 /cal          https://calendly.com/mike-aparicio-provi
+/team-olivia  https://www.extra-life.org/index.cfm?fuseaction=donordrive.participant&participantID=404053
+
+/fizz-repo    https://github.com/Provi-Engineering/fizz
+/fizz         https://provi-fizz.netlify.app/
+/pds-deck     http://mikeaparicio.com/slides/provi-design-system-july-2020.pdf
 
 /*            https://mikeaparicio.com
